@@ -149,7 +149,7 @@ public class Mouse {
       public void actionPerformed(ActionEvent e) {
         timer.setDelay(score.getSd());
         jfb.setText("得分："+score.getScore());
-        djs.setText("倒计时："+(score.getStarttime()/1000+score.getDjs()-System.currentTimeMillis()/1000)+"Ãë");
+        djs.setText("倒计时："+(score.getStarttime()/1000+score.getDjs()-System.currentTimeMillis()/1000)+"s");
         if((score.getStarttime()/1000+score.getDjs()-System.currentTimeMillis()/1000)==0)
         {
           timer.stop();
