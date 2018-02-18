@@ -1,32 +1,32 @@
-Mouse(´òµØÊó)
+Mouse(æ‰“åœ°é¼ )
 ===========
 
-![](https://raw.githubusercontent.com/muyangren907/Mouse/master/image/screenshots.jpg)
+![](https://raw.githubusercontent.com/muyangren907/Mouse/master/image/screenshot.jpg)
 
-## ËµÃ÷
+## è¯´æ˜
 
-- ´¿Java±àĞ´µÄ´òµØÊóĞ¡ÓÎÏ·£¬½ö¹©²Î¿¼
+- çº¯Javaç¼–å†™çš„æ‰“åœ°é¼ å°æ¸¸æˆï¼Œä»…ä¾›å‚è€ƒ
 
-## Ê¹ÓÃ
+## ä½¿ç”¨
 
-### ±àÒëÔËĞĞ
+### ç¼–è¯‘è¿è¡Œ
 
-- ÏÂÔØÔ´´úÂë
+- ä¸‹è½½æºä»£ç 
 
-- ±àÒë
+- ç¼–è¯‘
 
 ```
 javac Mouse.java -d ./ -encoding utf-8
 ```
 
--	ÔËĞĞ
+-	è¿è¡Œ
 
 ```
 java Mouse.Mouse
 ```
 
-### Ö±½ÓÔÚÏÂÃæÏÂÔØjar°üÔËĞĞ
+### ç›´æ¥åœ¨ä¸‹é¢ä¸‹è½½jaråŒ…è¿è¡Œ
 
-## ÏÂÔØ
+## ä¸‹è½½
 
 [Releases](https://github.com/muyangren907/Mouse/releases)
